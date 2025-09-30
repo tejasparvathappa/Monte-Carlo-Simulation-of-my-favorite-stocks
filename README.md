@@ -1,6 +1,6 @@
 # Monte-Carlo-Simulation-of-my-favorite-stocks
 
-This project applies Monte Carlo simulation to measure portfolio risk using a set of tech stocks (Apple, Microsoft, Google, Amazon, Meta).
+This project applies Monte Carlo simulation to measure portfolio risk using a set of ETF's and stocks.
 
 ### What the notebook does
 - Downloads stock data from Yahoo Finance  
